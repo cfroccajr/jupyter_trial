@@ -11,6 +11,6 @@ This respository is part of the work in the Mathfest 2024 Minicourse on Github a
 - <img src="./Chuck_Duck.png" width="200">
 - Typing a period goes to dev, typing a comma opens a new code space
 - Use codespace when you actually need to run code, dev is fine for text files.
--
+- Here is another edit to this file...
 
 [comment]: # (This actually is the most platform independent comment)
