@@ -6,3 +6,4 @@ This respository is part of the work in the Mathfest 2024 Minicourse on Github a
 
 ## Git Operations
 - Pull Requests $\equiv$ to merge to main
+- In preview you can choose the show diff box to see changes
