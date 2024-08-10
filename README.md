@@ -13,4 +13,7 @@ This respository is part of the work in the Mathfest 2024 Minicourse on Github a
 - Use codespace when you actually need to run code, dev is fine for text files.
 - Here is another edit to this file...
 
+## Devcontainer
+- The devcontainer can set the number of cores and pluggins are used by a Codespace
+- 
 [comment]: # (This actually is the most platform independent comment)
