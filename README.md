@@ -15,6 +15,7 @@ This respository is part of the work in the Mathfest 2024 Minicourse on Github a
 - Use codespace when you actually need to run code, dev is fine for text files.
 - Here is another edit to this file...
 - In codespace search > or ctrl-shift-p to find commands
+- Use period or greater than to switch to Github.dev vs Github.com
 - ...
 
 ## Setting Files
