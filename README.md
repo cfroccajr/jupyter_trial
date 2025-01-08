@@ -1,4 +1,4 @@
-# Notes from Mathfest 2024 Minicourse
+# Notes from Mathfest 2024 Minicourse and 2025 JMM PEP Workshop
 This respository is part of the work in the Mathfest 2024 Minicourse on Github and Jupyter Notebooks.
 
 ## General Notes
