@@ -19,6 +19,8 @@ This respository is part of the work in the Mathfest 2024 Minicourse on Github a
 - Use comma or less than (?) to launch codespace
 - Can just ask Copilot to help with code
 - Using Claude is another option?
+- Using Codium instead?
+- ctrl (open apple) - i and then can type /explain code
 - 
 - ...
 
